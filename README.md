@@ -43,8 +43,11 @@ A simple and powerful Android application designed to provide a fast, secure, an
 ---
 
 ## 📥 Download on Google Play
-
-https://play.google.com/store/apps/details?id=com.nktech.hdvideodownloader
+<a href="https://play.google.com/store/apps/details?id=com.nktech.hdvideodownloader">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+       alt="Get it on Google Play"
+       width="220">
+</a>
 ---
 
 
