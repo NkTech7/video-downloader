@@ -17,30 +17,29 @@ A simple and powerful Android application designed to provide a fast, secure, an
 
 ## 📸 Screenshots
 
-### Home
+### Screenshot 1
 ![Screenshot 1](screenshots/1.png)
 
-### Search
+### Screenshot 2
 ![Screenshot 2](screenshots/2.png)
 
-### Download
+### Screenshot 3
 ![Screenshot 3](screenshots/3.png)
 
-### Player
+### Screenshot 4
 ![Screenshot 4](screenshots/4.png)
 
-### History
+### Screenshot 5
 ![Screenshot 5](screenshots/5.png)
 
-### Settings
+### Screenshot 6
 ![Screenshot 6](screenshots/6.png)
 
-### More
+### Screenshot 7
 ![Screenshot 7](screenshots/7.png)
 
-### About
+### Screenshot 8
 ![Screenshot 8](screenshots/8.png)
-
 ---
 
 ## 📥 Download on Google Play
