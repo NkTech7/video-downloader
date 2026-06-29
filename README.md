@@ -1,4 +1,6 @@
-![Screenshot 1](screenshots/logo.png)
+<p align="center">
+  <img src="screenshots/logo.png" alt="HD Video Downloader Logo" width="512">
+</p>
 
 # HD Video Downloader
 
