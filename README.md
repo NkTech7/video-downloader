@@ -22,7 +22,6 @@ A simple and powerful Android application designed to provide a fast, secure, an
 - 📱 Clean and user-friendly interface
 - 📤 Share videos directly from supported apps
 - ❌ No login required
-
 ---
 
 ## 📥 Download on Google Play
