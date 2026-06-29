@@ -1,18 +1,27 @@
 <img src="screenshots/logo.png" alt="HD Video Downloader Logo" width="212">
-# HD Video Downloader
+🎥HD Video Downloader ⬇️
 
 A simple and powerful Android application designed to provide a fast, secure, and user-friendly experience.
 
 ## 📱 Features
 
-- 🚀 Fast performance
-- 📥 Easy downloads
-- 🎥 Built-in video player
+- 🚀 Fast and lightweight
+- 📥 Download HD videos with ease
+- ▶️ Built-in video player
 - 📂 Download history
+- 🔗 Smart URL detection
+- 🌐 Supports multiple social media platforms:
+  - 📘 Facebook
+  - 📸 Instagram
+  - 🎵 TikTok
+  - 🧵 Threads
+  - 📌 Pinterest
+- 📁 Save videos to your preferred folder
+- ⚡ Fast download speeds
 - 🔒 Secure and reliable
-- 🌙 Modern user interface
-- 📱 Lightweight design
-- ⚡ Regular updates
+- 📱 Clean and user-friendly interface
+- 📤 Share videos directly from supported apps
+- ❌ No login required
 
 ---
 
