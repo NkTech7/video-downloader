@@ -35,30 +35,20 @@ A simple and powerful Android application designed to provide a fast, secure, an
 
 ## 📸 Screenshots
 
-### Screenshot 1
-![Screenshot 1](screenshots/1.png)
-
-### Screenshot 2
-![Screenshot 2](screenshots/2.png)
-
-### Screenshot 3
-![Screenshot 3](screenshots/3.png)
-
-### Screenshot 4
-![Screenshot 4](screenshots/4.png)
-
-### Screenshot 5
-![Screenshot 5](screenshots/5.png)
-
-### Screenshot 6
-![Screenshot 6](screenshots/6.png)
-
-### Screenshot 7
-![Screenshot 7](screenshots/7.png)
-
-### Screenshot 8
-![Screenshot 8](screenshots/8.png)
----
+<table>
+  <tr>
+    <td><img src="screenshots/1.png" width="220" alt="Screenshot 1"></td>
+    <td><img src="screenshots/2.png" width="220" alt="Screenshot 2"></td>
+    <td><img src="screenshots/3.png" width="220" alt="Screenshot 3"></td>
+    <td><img src="screenshots/4.png" width="220" alt="Screenshot 4"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/5.png" width="220" alt="Screenshot 5"></td>
+    <td><img src="screenshots/6.png" width="220" alt="Screenshot 6"></td>
+    <td><img src="screenshots/7.png" width="220" alt="Screenshot 7"></td>
+    <td><img src="screenshots/8.png" width="220" alt="Screenshot 8"></td>
+  </tr>
+</table>
 
 
 ## 📧 Contact
