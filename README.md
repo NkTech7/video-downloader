@@ -1,3 +1,5 @@
+![Screenshot 1](screenshots/logo.png)
+
 # HD Video Downloader
 
 A simple and powerful Android application designed to provide a fast, secure, and user-friendly experience.
