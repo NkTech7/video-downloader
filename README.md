@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/logo.png" alt="HD Video Downloader Logo" width="512">
+  <img src="screenshots/logo.png" alt="HD Video Downloader Logo" width="212">
 </p>
 
 # HD Video Downloader
