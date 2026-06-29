@@ -1,9 +1,9 @@
 <p align="center">
   <img src="screenshots/logo.png" alt="HD Video Downloader Logo" width="212">
 </p>
-
+<p align="center">
 # HD Video Downloader
-
+</p>
 A simple and powerful Android application designed to provide a fast, secure, and user-friendly experience.
 
 ## 📱 Features
