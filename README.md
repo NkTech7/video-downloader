@@ -1,5 +1,5 @@
 <img src="screenshots/logo.png" alt="HD Video Downloader Logo" width="212">
-🎥HD Video Downloader ⬇️
+🎥LX Video Downloader ⬇️
 
 A simple and powerful Android application designed to provide a fast, secure, and user-friendly experience.
 
