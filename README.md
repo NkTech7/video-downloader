@@ -5,27 +5,32 @@ A simple and powerful Android application designed to provide a fast, secure, an
 
 ## 📱 Features
 
-- 🚀 Fast and lightweight
-- 📥 Download HD videos with ease
-- ▶️ Built-in video player
-- 📂 Download history
-- 🔗 Smart URL detection
-- 🌐 Video Downloader supports multiple platforms:
-    - 📘 Facebook Video Downloader
-    - 📸 Instagram Video Downloader
-    - 🎵 TikTok Video Downloader
-    - 🐦 Twitter (X) Video Downloader
-    - 🧵 Threads Video Downloader
-    - 📌 Pinterest Video Downloader
-    - 🎬 Dailymotion Video Downloader
-    - 🔥 Moj Video Downloader
-- 📁 Save videos to your preferred folder
-- ⚡ Fast download speeds
-- 🔒 Secure and reliable
-- 📱 Clean and user-friendly interface
-- 📤 Share videos directly from supported apps
-- ❌ No login required
----
+* 🚀 Fast, lightweight, and easy to use
+* 📥 Download HD videos in high quality
+* ⚡ High-speed video downloads
+* ▶️ Built-in HD video player
+* 📂 Download history and file management
+* 🔗 Smart URL detection for quick downloads
+* 📁 Save videos to your preferred folder
+* 📤 Share downloaded videos instantly
+* 🔒 Secure, reliable, and privacy-friendly
+* ❌ No login or account required
+* 📱 Clean and user-friendly interface
+
+### 🌐 Supported Video Download Platforms
+
+Download videos from:
+
+* 📘 Facebook
+* 📸 Instagram
+* 🎵 TikTok
+* 🐦 Twitter (X)
+* 🧵 Threads
+* 📌 Pinterest
+* 🎬 Dailymotion
+* 🔥 Moj
+HD Video Downloader • Video Downloader • Social Media Video Downloader • Facebook Video Downloader • Instagram Video Downloader • TikTok Video Downloader • Twitter (X) Video Downloader • Threads Video Downloader • Pinterest Video Downloader • Dailymotion Video Downloader • Moj Video Downloader • Fast Video Downloader • Free Video Downloader • HD Video Saver
+
 
 ## 📥 Download on Google Play
 <a href="https://play.google.com/store/apps/details?id=com.nktech.hdvideodownloader">
