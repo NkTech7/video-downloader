@@ -16,7 +16,6 @@ A simple and powerful Android application designed to provide a fast, secure, an
   - 🎵 TikTok
   - 🧵 Threads
   - 📌 Pinterest
-  - ▶️ YouTube
   - 🎬 Dailymotion
   - 🔥 Moj
 - 📁 Save videos to your preferred folder
