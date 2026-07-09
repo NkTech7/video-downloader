@@ -15,6 +15,7 @@ A simple and powerful Android application designed to provide a fast, secure, an
   - 📸 Instagram
   - 🎵 TikTok
   - 🧵 Threads
+  - 🐦 Twitter (X)
   - 📌 Pinterest
   - 🎬 Dailymotion
   - 🔥 Moj
