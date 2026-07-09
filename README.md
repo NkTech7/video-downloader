@@ -10,15 +10,15 @@ A simple and powerful Android application designed to provide a fast, secure, an
 - ▶️ Built-in video player
 - 📂 Download history
 - 🔗 Smart URL detection
-- 🌐 Supports multiple social media platforms:
-  - 📘 Facebook
-  - 📸 Instagram
-  - 🎵 TikTok
-  - 🧵 Threads
-  - 🐦 Twitter (X)
-  - 📌 Pinterest
-  - 🎬 Dailymotion
-  - 🔥 Moj
+- 🌐 Video Downloader supports multiple platforms:
+    - 📘 Facebook Video Downloader
+    - 📸 Instagram Video Downloader
+    - 🎵 TikTok Video Downloader
+    - 🐦 Twitter (X) Video Downloader
+    - 🧵 Threads Video Downloader
+    - 📌 Pinterest Video Downloader
+    - 🎬 Dailymotion Video Downloader
+    - 🔥 Moj Video Downloader
 - 📁 Save videos to your preferred folder
 - ⚡ Fast download speeds
 - 🔒 Secure and reliable
